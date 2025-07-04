@@ -1,0 +1,126 @@
+{
+  "teknologi": [
+    {
+      "title": "Software Engineer",
+      "courses": ["Dasar Python", "Web Development", "Intro to AI"]
+    },
+    {
+      "title": "DevOps Engineer",
+      "courses": ["Linux Dasar", "CI/CD Jenkins", "Cloud AWS"]
+    },
+    {
+      "title": "Data Scientist",
+      "courses": ["Machine Learning", "Python untuk Data", "Pandas & NumPy"]
+    }
+  ],
+  "seni": [
+    {
+      "title": "Desainer Grafis",
+      "courses": ["Canva Design", "Figma UI/UX", "Photoshop"]
+    },
+    {
+      "title": "Ilustrator Digital",
+      "courses": ["Digital Drawing", "Clip Studio Paint", "Anatomy for Artists"]
+    }
+  ],
+  "pendidikan": [
+    {
+      "title": "Guru Online",
+      "courses": ["Mengajar dengan Zoom", "Membuat Modul", "Mentoring 101"]
+    },
+    {
+      "title": "Kreator Edukasi",
+      "courses": ["Membuat Video Edukasi", "Animasi Edukasi", "Storytelling"]
+    }
+  ],
+  "kesehatan": [
+    {
+      "title": "Asisten Medis",
+      "courses": ["Pertolongan Pertama", "Etika Kesehatan", "Dasar Anatomi"]
+    },
+    {
+      "title": "Nutrisionis",
+      "courses": ["Gizi Seimbang", "Diet & Kesehatan", "Meal Planning"]
+    }
+  ],
+  "keuangan": [
+    {
+      "title": "Analis Keuangan",
+      "courses": ["Excel Dasar", "Analisis Laporan", "Manajemen Keuangan"]
+    },
+    {
+      "title": "Akuntan Freelance",
+      "courses": ["Akuntansi Dasar", "Pajak UKM", "Laporan Keuangan"]
+    }
+  ],
+  "lingkungan": [
+    {
+      "title": "Aktivis Lingkungan",
+      "courses": ["Dasar Ekologi", "Kampanye Iklim", "Zero Waste"]
+    },
+    {
+      "title": "Manajer Proyek Hijau",
+      "courses": ["Manajemen Proyek", "CSR Lingkungan", "Hukum Lingkungan"]
+    }
+  ],
+  "musik": [
+    {
+      "title": "Produser Musik",
+      "courses": ["FL Studio", "Mixing & Mastering", "Teori Musik"]
+    },
+    {
+      "title": "Guru Musik Online",
+      "courses": ["Piano Dasar", "Gitar Pop", "Mengajar Musik Anak"]
+    }
+  ],
+  "pertanian": [
+    {
+      "title": "Petani Cerdas",
+      "courses": ["Pertanian Organik", "IOT untuk Pertanian", "Hidroponik"]
+    },
+    {
+      "title": "Teknisi Pertanian",
+      "courses": ["Alat Pertanian Modern", "Pemeliharaan Mesin", "Safety Farm"]
+    }
+  ],
+  "pariwisata": [
+    {
+      "title": "Pemandu Wisata",
+      "courses": ["Bahasa Inggris Pariwisata", "Storytelling", "SOP Turis"]
+    },
+    {
+      "title": "Manajer Homestay",
+      "courses": ["Hospitality", "Booking System", "Manajemen Tamu"]
+    }
+  ],
+  "wiraswasta": [
+    {
+      "title": "Owner UMKM",
+      "courses": ["Manajemen Usaha", "Pemasaran Sosmed", "Branding Produk"]
+    },
+    {
+      "title": "Dropshipper",
+      "courses": ["Shopee/Lazada", "Copywriting", "Foto Produk"]
+    }
+  ],
+  "logistik": [
+    {
+      "title": "Kurir Digital",
+      "courses": ["Navigasi & Maps", "Layanan Cepat", "Etika Pengiriman"]
+    },
+    {
+      "title": "Admin Gudang",
+      "courses": ["Inventory", "Spreadsheet", "Logistik Dasar"]
+    }
+  ],
+  "hukum": [
+    {
+      "title": "Asisten Hukum",
+      "courses": ["Dasar Hukum", "Legal Drafting", "Etika Profesi"]
+    },
+    {
+      "title": "Paralegal Komunitas",
+      "courses": ["Hukum Masyarakat", "Hak Asasi", "Mediation"]
+    }
+  ]
+}
