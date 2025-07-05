@@ -1,0 +1,302 @@
+[
+  {
+    "title": "AI Engineer",
+    "category": "Teknologi",
+    "description": "Kamu suka berpikir futuristik, membangun sistem yang bisa belajar sendiri, dan tertarik dengan kecerdasan buatan? Profesi ini cocok untuk kamu yang suka logika, statistik, dan pemrograman.",
+    "skills": ["Python", "TensorFlow", "PyTorch", "Machine Learning", "Deep Learning", "Data Engineering", "Cloud AI", "Model Deployment"]
+  },
+  {
+    "title": "Motion Graphic Designer",
+    "category": "Seni & Desain",
+    "description": "Jika kamu suka membuat hal visual menjadi hidup dengan animasi dan efek bergerak, profesi ini cocok untuk kamu yang kreatif dan teliti terhadap detail pergerakan dan storytelling.",
+    "skills": ["Adobe After Effects", "Adobe Premiere", "Illustration", "2D Animation", "3D Animation", "Storyboarding", "Typography", "Motion Design Principles"]
+  },
+  {
+    "title": "Psikolog Pendidikan",
+    "category": "Sosial & Pendidikan",
+    "description": "Kamu tertarik dengan perilaku manusia, suka membantu orang, dan ingin meningkatkan kualitas pendidikan? Karier ini cocok untuk kamu yang peka, suka mendengar, dan berpikir analitis.",
+    "skills": ["Konseling", "Psikometri", "Observasi Perilaku", "Pengembangan Kurikulum", "Analisis Psikologis", "Etika Profesi", "Empati", "Komunikasi Interpersonal"]
+  },
+  {
+    "title": "Game Developer",
+    "category": "Teknologi & Kreatif",
+    "description": "Kamu suka bermain dan membuat game, serta memiliki imajinasi dan logika yang kuat? Profesi ini cocok bagi kamu yang ingin menghidupkan ide kreatif melalui pemrograman dan desain interaktif.",
+    "skills": ["Unity", "Unreal Engine", "C#", "Game Physics", "Game Design", "Level Design", "3D Modeling", "Gameplay Programming"]
+  },
+  {
+    "title": "Product Manager",
+    "category": "Manajemen & Bisnis",
+    "description": "Kamu pandai melihat kebutuhan pasar, menyatukan tim dari berbagai latar belakang, dan memastikan produk berjalan sesuai arah yang tepat? Profesi ini ideal untuk orang visioner dan komunikatif.",
+    "skills": ["Product Strategy", "User Research", "Agile Methodology", "Roadmapping", "Data Analysis", "Scrum", "Communication", "Market Validation"]
+  },
+  {
+    "title": "Peneliti Ilmu Lingkungan",
+    "category": "Sains & Alam",
+    "description": "Kamu peduli terhadap bumi dan ingin berkontribusi menjaga lingkungan lewat riset dan solusi berkelanjutan? Karier ini cocok untuk orang yang teliti, suka lapangan, dan ilmiah.",
+    "skills": ["GIS", "Ekologi", "Statistik Lingkungan", "Data Collection", "Environmental Impact Assessment", "Report Writing", "Field Survey", "Analisis Laboratorium"]
+  },
+  {
+    "title": "Copywriter",
+    "category": "Pemasaran & Kreatif",
+    "description": "Kamu suka bermain kata, membuat kalimat yang persuasif, dan senang melihat ide bisa mempengaruhi orang lain? Karier ini cocok bagi kamu yang suka menulis dan memahami psikologi audiens.",
+    "skills": ["Copywriting", "Creative Writing", "SEO Writing", "Content Strategy", "Brand Messaging", "Persuasive Writing", "Storytelling", "Editing & Proofreading"]
+  },
+  {
+    "title": "UX Researcher",
+    "category": "Teknologi & Desain",
+    "description": "Kamu suka observasi, eksperimen, dan mencari tahu apa yang dibutuhkan pengguna sesungguhnya? Profesi ini cocok untuk orang yang kritis, empatik, dan suka proses berpikir desain.",
+    "skills": ["User Interview", "Usability Testing", "Persona Development", "Survey Design", "Data Analysis", "Journey Mapping", "A/B Testing", "Empathy Mapping"]
+  },
+  {
+    "title": "HR Specialist",
+    "category": "Bisnis & SDM",
+    "description": "Kamu tertarik pada bagaimana organisasi bekerja dan suka membina hubungan antarmanusia? HR cocok untuk kamu yang komunikatif, organisatoris, dan peka terhadap dinamika tim.",
+    "skills": ["Recruitment", "Employee Engagement", "Performance Management", "Interview Techniques", "HRIS", "Payroll", "Conflict Resolution", "Organizational Development"]
+  },
+  {
+    "title": "Data Engineer",
+    "category": "Teknologi",
+    "description": "Kamu suka membangun sistem data besar, menyiapkan jalur data agar lancar, dan mendukung analis atau scientist? Cocok untuk kamu yang rapi, teliti, dan logis.",
+    "skills": ["SQL", "ETL Pipelines", "Apache Spark", "Python", "Data Warehousing", "Big Data Tools", "Data Modeling", "Cloud Platforms"]
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "category": "Teknologi",
+    "description": "Kamu suka memecahkan teka-teki keamanan, menjaga sistem dari serangan siber, dan berpikir seperti hacker etis? Karier ini cocok untuk yang analitis dan teliti.",
+    "skills": ["Network Security", "Penetration Testing", "Firewalls", "SIEM", "Incident Response", "Ethical Hacking", "Cryptography", "Linux Security"]
+  },
+  {
+    "title": "Social Media Manager",
+    "category": "Pemasaran & Komunikasi",
+    "description": "Kamu aktif di media sosial dan tahu cara membangun komunitas serta engagement secara kreatif? Karier ini cocok bagi yang ekspresif dan strategi digital.",
+    "skills": ["Content Planning", "Analytics Tools", "Copywriting", "Platform Trends", "Influencer Outreach", "Design Briefing", "Scheduling Tools", "Community Management"]
+  },
+  {
+    "title": "Business Analyst",
+    "category": "Manajemen & Strategi",
+    "description": "Kamu suka melihat pola data, menganalisis kebutuhan bisnis, dan menjembatani teknologi dengan kebutuhan perusahaan? Cocok untuk yang logis dan komunikatif.",
+    "skills": ["Requirement Gathering", "Data Visualization", "Stakeholder Management", "UML", "SWOT Analysis", "Excel", "SQL", "Presentation"]
+  },
+  {
+    "title": "Full Stack Developer",
+    "category": "Teknologi",
+    "description": "Kamu suka membangun aplikasi dari ujung ke ujung, dari tampilan depan sampai logika di belakangnya? Profesi ini untuk kamu yang serba bisa dan problem solver.",
+    "skills": ["HTML/CSS", "JavaScript", "React", "Node.js", "REST API", "SQL/NoSQL", "Git", "DevOps"]
+  },
+  {
+    "title": "Mobile App Developer",
+    "category": "Teknologi",
+    "description": "Kamu suka membuat aplikasi yang bisa digunakan langsung di smartphone dan berpikir tentang pengalaman pengguna? Cocok untuk yang visual dan logis.",
+    "skills": ["Kotlin", "Java", "Swift", "Flutter", "UI/UX Mobile", "Firebase", "API Integration", "State Management"]
+  },
+  {
+    "title": "Content Strategist",
+    "category": "Pemasaran & Kreatif",
+    "description": "Kamu bisa memikirkan konten yang menyentuh hati audiens dan mengatur distribusinya? Cocok untuk yang visioner, kreatif, dan suka storytelling.",
+    "skills": ["Content Planning", "Brand Strategy", "SEO", "Editorial Calendar", "KPI Tracking", "Market Research", "Multichannel Strategy", "Copy Editing"]
+  },
+  {
+    "title": "Biomedical Engineer",
+    "category": "Sains & Kesehatan",
+    "description": "Kamu ingin berkontribusi di dunia medis melalui inovasi teknologi? Profesi ini cocok untuk yang suka alat-alat elektronik dan dunia kesehatan.",
+    "skills": ["Biomechanics", "Medical Imaging", "Instrumentation", "Clinical Trials", "CAD Tools", "Signal Processing", "Regulatory Knowledge", "Problem Solving"]
+  },
+  {
+    "title": "UI Designer",
+    "category": "Seni & Teknologi",
+    "description": "Kamu peduli dengan estetika tampilan digital dan ingin pengguna betah melihat produk digital? Cocok untuk yang teliti, kreatif, dan detail-oriented.",
+    "skills": ["Figma", "Design System", "Layouting", "Visual Hierarchy", "Typography", "Color Theory", "Accessibility", "Component Library"]
+  },
+  {
+    "title": "Video Editor",
+    "category": "Kreatif & Produksi Media",
+    "description": "Kamu suka memotong, menyusun, dan membuat video jadi menarik? Karier ini cocok untuk kamu yang tekun, kreatif, dan punya sense timing yang baik.",
+    "skills": ["Adobe Premiere", "Final Cut Pro", "Audio Syncing", "Color Grading", "Motion Graphic Integration", "Storytelling", "Video Compression", "Editing for Social Media"]
+  },
+  {
+    "title": "Digital Illustrator",
+    "category": "Seni & Kreatif",
+    "description": "Kamu suka menggambar karakter, membuat ilustrasi digital yang imajinatif? Cocok untuk yang punya kreativitas tinggi dan passion visual.",
+    "skills": ["Procreate", "Adobe Illustrator", "Sketching", "Character Design", "Coloring", "Perspective", "Concept Art", "Visual Storytelling"]
+  },
+  {
+    "title": "Data Scientist",
+    "category": "Teknologi & Analitik",
+    "description": "Kamu suka menemukan pola tersembunyi dalam data dan menyajikannya jadi wawasan bermanfaat? Profesi ini cocok untuk yang analitis, teliti, dan suka eksperimen.",
+    "skills": ["Python", "Pandas", "NumPy", "Machine Learning", "Data Visualization", "SQL", "Statistics", "Jupyter Notebook"]
+  },
+  {
+    "title": "Cloud Engineer",
+    "category": "Teknologi & Infrastruktur",
+    "description": "Kamu tertarik membangun dan mengelola infrastruktur aplikasi di cloud? Cocok untuk yang suka efisiensi, skalabilitas, dan dunia serverless.",
+    "skills": ["AWS", "GCP", "Azure", "Kubernetes", "Docker", "CI/CD", "Terraform", "Networking"]
+  },
+  {
+    "title": "Industrial Designer",
+    "category": "Seni & Teknik",
+    "description": "Kamu suka mendesain bentuk produk fisik yang ergonomis dan estetis? Karier ini cocok untuk kamu yang kreatif dan berpikir fungsional.",
+    "skills": ["3D Modelling", "CAD", "Sketching", "Ergonomics", "Material Knowledge", "Rendering", "User Research", "Prototyping"]
+  },
+  {
+    "title": "Supply Chain Analyst",
+    "category": "Manufaktur & Logistik",
+    "description": "Kamu tertarik pada bagaimana barang berpindah dari produsen ke konsumen secara efisien? Cocok untuk yang teliti, strategis, dan suka sistem.",
+    "skills": ["Inventory Management", "Forecasting", "ERP Systems", "Logistics", "Data Analysis", "Supply Planning", "Excel", "SQL"]
+  },
+  {
+    "title": "Electrical Engineer",
+    "category": "Teknik & Energi",
+    "description": "Kamu suka rangkaian listrik, sistem tenaga, dan membangun solusi elektronik? Cocok untuk yang suka eksperimen, logika, dan presisi.",
+    "skills": ["Circuit Design", "MATLAB", "Embedded Systems", "Power Systems", "Microcontrollers", "Simulation", "PCB Design", "Safety Standards"]
+  },
+  {
+    "title": "3D Animator",
+    "category": "Seni & Film",
+    "description": "Kamu suka menghidupkan karakter dan dunia virtual dalam bentuk 3D? Cocok untuk kamu yang teliti, kreatif, dan sabar dengan detail.",
+    "skills": ["Autodesk Maya", "Blender", "Rigging", "Keyframe Animation", "Character Design", "Lighting", "Rendering", "Motion Capture"]
+  },
+  {
+    "title": "Statistician",
+    "category": "Sains & Analitik",
+    "description": "Kamu suka mengolah data, menghitung probabilitas, dan membuat keputusan berbasis statistik? Profesi ini cocok untuk pecinta angka dan logika.",
+    "skills": ["R", "SPSS", "Statistical Modeling", "Regression", "Probability Theory", "Sampling", "Hypothesis Testing", "Data Cleaning"]
+  },
+  {
+    "title": "Legal Advisor",
+    "category": "Hukum & Bisnis",
+    "description": "Kamu tertarik dengan hukum, kontrak, dan menyusun kebijakan yang adil? Cocok untuk yang logis, objektif, dan paham regulasi.",
+    "skills": ["Contract Law", "Legal Drafting", "Negotiation", "Risk Analysis", "Regulatory Compliance", "Litigation Support", "Legal Research", "Corporate Law"]
+  },
+  {
+    "title": "Customer Experience Specialist",
+    "category": "Layanan & Komunikasi",
+    "description": "Kamu suka membuat pelanggan merasa didengar dan puas dengan pengalaman mereka? Cocok untuk yang empatik dan komunikatif.",
+    "skills": ["Customer Journey Mapping", "Empathy", "CRM Tools", "Complaint Handling", "NPS Analysis", "Communication Skills", "Service Recovery", "Problem Solving"]
+  },
+  {
+    "title": "Instructional Designer",
+    "category": "Pendidikan & Teknologi",
+    "description": "Kamu suka membuat materi pembelajaran interaktif dan sistematis? Cocok untuk yang suka mengajar dan berpikir terstruktur.",
+    "skills": ["Curriculum Design", "eLearning Tools", "Storyboarding", "Assessment Design", "LMS Platforms", "Pedagogy", "Visual Design", "Learning Analytics"]
+  },
+  {
+    "title": "Mechanical Engineer",
+    "category": "Teknik & Produksi",
+    "description": "Kamu suka merancang dan memperbaiki sistem mekanis seperti mesin dan peralatan industri? Profesi ini cocok untuk kamu yang teknikal dan detail-oriented.",
+    "skills": ["CAD", "SolidWorks", "Thermodynamics", "Fluid Mechanics", "Machine Design", "Manufacturing Processes", "Finite Element Analysis", "Project Management"]
+  },
+  {
+    "title": "Public Relations Specialist",
+    "category": "Komunikasi & Media",
+    "description": "Kamu suka membangun citra positif suatu brand atau organisasi di mata publik? Cocok untuk kamu yang komunikatif dan strategis.",
+    "skills": ["Press Release Writing", "Media Relations", "Crisis Management", "Event Planning", "Public Speaking", "Storytelling", "Social Media", "Brand Messaging"]
+  },
+  {
+    "title": "Interior Designer",
+    "category": "Seni & Ruang",
+    "description": "Kamu tertarik menata ruangan agar fungsional dan estetis? Profesi ini cocok untuk kamu yang artistik dan peka terhadap tata ruang.",
+    "skills": ["AutoCAD", "SketchUp", "Color Theory", "Lighting Design", "Material Selection", "Space Planning", "Client Communication", "3D Visualization"]
+  },
+  {
+    "title": "Digital Marketing Analyst",
+    "category": "Pemasaran & Data",
+    "description": "Kamu suka menganalisis performa iklan dan strategi digital untuk meningkatkan hasil kampanye? Cocok untuk yang suka data dan pemasaran.",
+    "skills": ["Google Analytics", "A/B Testing", "SEO/SEM", "Dashboard Reporting", "Conversion Tracking", "Excel", "Marketing Funnel", "Audience Segmentation"]
+  },
+  {
+    "title": "Technical Writer",
+    "category": "Teknologi & Komunikasi",
+    "description": "Kamu suka menjelaskan konsep teknis secara mudah dan sistematis? Cocok untuk yang rapi, teliti, dan suka dokumentasi.",
+    "skills": ["Documentation", "API Writing", "Markdown", "Technical Communication", "Content Structuring", "Information Architecture", "XML/DITA", "Tool Familiarity"]
+  },
+  {
+    "title": "Art Director",
+    "category": "Seni & Kreatif",
+    "description": "Kamu punya visi visual kuat dan mampu memimpin tim kreatif untuk menghasilkan kampanye visual yang solid? Cocok untuk yang inspiratif dan estetis.",
+    "skills": ["Creative Direction", "Visual Branding", "Photography Supervision", "Typography", "Team Leadership", "Art Review", "Concept Development", "Client Presentation"]
+  },
+  {
+    "title": "Data Analyst",
+    "category": "Teknologi & Bisnis",
+    "description": "Kamu suka merapikan data, membuat dashboard, dan menyimpulkan tren bisnis? Cocok untuk kamu yang teliti dan logis.",
+    "skills": ["Excel", "SQL", "Power BI", "Tableau", "Python (Pandas)", "Business Intelligence", "Data Cleaning", "Data Storytelling"]
+  },
+  {
+    "title": "Brand Strategist",
+    "category": "Pemasaran & Bisnis",
+    "description": "Kamu ahli membangun citra brand, mulai dari identitas sampai suara merek di pasar? Cocok untuk yang kreatif dan berpikir jangka panjang.",
+    "skills": ["Market Research", "Competitive Analysis", "Brand Positioning", "Messaging Framework", "Visual Consistency", "Consumer Insight", "Strategic Planning", "Pitching"]
+  },
+  {
+    "title": "Fashion Designer",
+    "category": "Seni & Industri Kreatif",
+    "description": "Kamu punya selera mode tinggi dan ingin menciptakan busana dengan identitas khas? Cocok untuk kamu yang inovatif dan sensitif terhadap tren.",
+    "skills": ["Sketching", "Pattern Making", "Fabric Knowledge", "Color Coordination", "Sewing", "Fashion Illustration", "CAD for Fashion", "Trend Forecasting"]
+  },
+  {
+    "title": "Motion Designer",
+    "category": "Visual & Multimedia",
+    "description": "Kamu suka menciptakan animasi grafis yang dinamis untuk video, iklan, atau film? Cocok untuk kamu yang artistik dan suka gerakan visual.",
+    "skills": ["Adobe After Effects", "Cinema 4D", "Keyframing", "Motion Principles", "Visual Timing", "Storyboard", "Animation Curve", "Compositing"]
+  },
+  {
+    "title": "Front-End Developer",
+    "category": "Teknologi",
+    "description": "Kamu suka membuat antarmuka web yang cantik dan interaktif? Cocok untuk yang kreatif namun logis, dan punya perhatian tinggi pada detail visual.",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Vue.js", "Responsive Design", "Web Accessibility", "Git"]
+  },
+  {
+    "title": "Event Organizer",
+    "category": "Manajemen & Kreatif",
+    "description": "Kamu suka menyusun acara yang berkesan, rapi, dan terstruktur? Cocok untuk kamu yang suka organisasi, komunikasi, dan kerja lapangan.",
+    "skills": ["Event Planning", "Vendor Management", "Budgeting", "Negotiation", "Timeline Coordination", "Marketing Event", "Client Liaison", "Crisis Handling"]
+  },
+  {
+    "title": "Financial Analyst",
+    "category": "Bisnis & Keuangan",
+    "description": "Kamu suka angka, laporan keuangan, dan membantu bisnis mengambil keputusan berdasarkan data? Cocok untuk yang teliti dan logis.",
+    "skills": ["Financial Modeling", "Valuation", "Excel Advanced", "Investment Analysis", "Forecasting", "Data Visualization", "Accounting Knowledge", "Reporting"]
+  },
+  {
+    "title": "QA Engineer",
+    "category": "Teknologi",
+    "description": "Kamu suka memastikan aplikasi berjalan bebas dari bug dan memberikan pengalaman terbaik? Cocok untuk kamu yang teliti dan analitis.",
+    "skills": ["Test Case Writing", "Manual Testing", "Automation (Selenium)", "Bug Tracking", "JIRA", "Unit Testing", "Regression Testing", "Agile QA"]
+  },
+  {
+    "title": "Photographer",
+    "category": "Seni & Media",
+    "description": "Kamu suka menangkap momen melalui lensa kamera? Cocok untuk kamu yang artistik dan punya sensitivitas visual tinggi.",
+    "skills": ["Camera Handling", "Lighting", "Photo Editing", "Composition", "Portrait Photography", "Product Photography", "Color Grading", "Adobe Lightroom"]
+  },
+  {
+    "title": "Network Engineer",
+    "category": "Teknologi & Infrastruktur",
+    "description": "Kamu tertarik membangun dan menjaga jaringan komputer tetap lancar? Cocok untuk kamu yang logis dan suka troubleshooting.",
+    "skills": ["TCP/IP", "Cisco Routers", "Firewall Configuration", "Network Security", "Routing Protocols", "Wi-Fi Deployment", "Linux", "Monitoring Tools"]
+  },
+  {
+    "title": "Social Worker",
+    "category": "Sosial & Kesejahteraan",
+    "description": "Kamu suka membantu masyarakat, mendengar curhat, dan memberi solusi? Cocok untuk kamu yang empatik dan sabar.",
+    "skills": ["Case Management", "Active Listening", "Community Outreach", "Conflict Resolution", "Client Advocacy", "Documentation", "Social Policy", "Counseling"]
+  },
+  {
+    "title": "E-commerce Specialist",
+    "category": "Pemasaran & Teknologi",
+    "description": "Kamu paham alur jual beli online dan bisa meningkatkan performa toko digital? Cocok untuk kamu yang taktis dan peka tren.",
+    "skills": ["Marketplace Optimization", "Product Listing", "Customer Retention", "Digital Ads", "Analytics", "Pricing Strategy", "Content Creation", "Inventory Coordination"]
+  },
+  {
+    "title": "Voice Over Artist",
+    "category": "Media & Kreatif",
+    "description": "Kamu punya suara khas dan suka mendalami karakter lewat intonasi? Cocok untuk kamu yang ekspresif dan percaya diri.",
+    "skills": ["Diction", "Voice Control", "Acting", "Recording Software", "Microphone Technique", "Language Clarity", "Script Interpretation", "Audio Editing"]
+  },
+  {
+    "title": "Ethical Hacker",
+    "category": "Teknologi & Keamanan",
+    "description": "Kamu suka berpikir seperti hacker demi kebaikan dan membantu sistem tetap aman? Cocok untuk kamu yang logis dan suka investigasi digital.",
+    "skills": ["Kali Linux", "Burp Suite", "Metasploit", "Network Scanning", "Penetration Testing", "OWASP Top 10", "Vulnerability Assessment", "Reporting"]
+  }
+]
